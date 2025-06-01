@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1748786037 source:/home/roeland/src/dsp/Signal_Mean/waveforms.c
+	<stdio.h>
+	<stdlib.h>
+
+1748784969 source:/home/roeland/src/dsp/Signal_Mean/main.c
+	<stdio.h>
+	<stdlib.h>
+
