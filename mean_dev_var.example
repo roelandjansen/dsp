@@ -1,0 +1,41 @@
+Let's consider an example. Suppose you're analyzing the daily temperatures in a city over a week. 
+You collect the following temperature data:
+
+Day 1: 22°C
+Day 2: 23°C
+Day 3: 21°C
+Day 4: 24°C
+Day 5: 22°C
+Day 6: 20°C
+Day 7: 23°C
+
+Calculating the mean:
+
+Mean = (22 + 23 + 21 + 24 + 22 + 20 + 23) / 7 ≈ 22.14°C
+
+The mean gives you an idea of the average temperature over the week.
+
+Calculating the standard deviation:
+
+Let's assume the standard deviation is approximately 1.26°C (after calculating).
+
+The standard deviation tells you that most temperatures are likely to be within 1.26°C of the mean (22.14°C). 
+So, you can expect temperatures to usually be between 20.88°C and 23.40°C.
+
+Calculating the variance:
+
+Variance = σ^2 = (1.26)^2 ≈ 1.59
+
+The variance is used in more advanced calculations, such as determining the spread of temperatures in a more theoretical sense.
+
+Practical use:
+
+Weather forecasting: Knowing the mean and standard deviation of temperatures can help you predict the likelihood of certain temperature ranges.
+Climate analysis: Understanding the variance of temperatures can help researchers identify patterns or trends in climate data.
+
+In signal processing, these concepts are applied in various ways, such as:
+
+Noise analysis: Understanding the mean and standard deviation of noise can help you design filters to reduce its impact.
+Signal characterization: Analyzing the mean, standard deviation, and variance of a signal can help you understand its properties and behavior.
+
+These are just a few examples, but the concepts of mean, standard deviation, and variance are widely used in many fields.

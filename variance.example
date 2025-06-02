@@ -1,0 +1,23 @@
+Let's break down the notation for variance:
+
+σ^2 = (1/N) * ∑(x[n] - μ)^2
+
+Here's how to read it:
+
+σ^2 (sigma squared) represents the variance.
+1/N means "divide by the total number of samples" (N).
+∑ (sigma) means "sum of". Think of it like a big "add up all these values" symbol.
+(x[n] - μ) means "each sample value minus the mean value". This is calculating the deviation of each sample from the mean.
+^2 means "squared". So, (x[n] - μ)^2 is the squared deviation.
+
+So, when you see σ^2 = (1/N) * ∑(x[n] - μ)^2, you can translate it to:
+
+For each sample value, subtract the mean value: (x[1] - μ), (x[2] - μ), ..., (x[N] - μ)
+Square each of these deviations: (x[1] - μ)^2, (x[2] - μ)^2, ..., (x[N] - μ)^2
+Add up these squared deviations: (x[1] - μ)^2 + (x[2] - μ)^2 + ... + (x[N] - μ)^2
+Divide the sum by the total number of samples: [(x[1] - μ)^2 + (x[2] - μ)^2 + ... + (x[N] - μ)^2] / N
+
+In simpler terms, it's calculating the average of the squared deviations from the mean.
+
+Notice that this is similar to the standard deviation formula, but without the square root at the end. 
+That's why variance is often referred to as the "squared" version of standard deviation.

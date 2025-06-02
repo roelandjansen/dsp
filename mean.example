@@ -1,0 +1,26 @@
+he mathematical notation can be intimidating at first, but it's actually a concise way to represent the concepts.
+
+Let's break down the notation for the mean:
+
+μ = (1/N) * ∑x[n]
+
+Here's how to read it:
+
+μ (mu) represents the mean value.
+∑ (sigma) means "sum of". Think of it like a big "add up all these values" symbol.
+x[n] represents each individual sample value. The [n] part means "each sample in the set".
+1/N means "divide by the total number of samples" (N).
+
+So, when you see μ = (1/N) * ∑x[n], you can translate it to:
+
+"Mean (μ) equals the sum of all sample values (∑x[n]) divided by the total number of samples (1/N)".
+
+In simpler terms, it's the same as:
+
+Mean = (add up all sample values) / (total number of samples)
+
+You can think of it like this:
+
+Add up all the sample values: x[1] + x[2] + x[3] + ... + x[N]
+Divide the sum by the total number of samples: (x[1] + x[2] + x[3] + ... + x[N]) / N
+
