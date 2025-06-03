@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1748786511 source:/home/roeland/src/dsp/Signalvariance/dsp_project/dsp_project/waveform.c
+
+1748868468 source:/home/roeland/src/dsp/Signalvariance/dsp_project/dsp_project/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1748866659 source:/home/roeland/src/dsp/Signalvariance/dsp_project/dsp_project/waveforms.c
+
